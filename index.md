@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 hello~!
 
-<p>Banghun Lee
-<p>loveyou@naver.com
-<p>github.com/kindbangu
-<p>gangnam station
+Banghun Lee
+loveyou@naver.com
+github.com/kindbangu
+gangnam station
